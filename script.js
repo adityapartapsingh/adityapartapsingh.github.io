@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "Developer", "Blogger", "CEO of Karma", "Founder of Karma"],
+        strings: ["Student", "Developer", "Blogger","Learner"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
