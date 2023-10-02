@@ -385,17 +385,17 @@ section .title::after{
     width: 30%;
 }
 .skills-content .right .python::before{
-    width: 50%;
-}
-.skills-content .right .cpp::before{
-    width: 70%;
-}
-.skills-content .right .c::before{
-    width: 60%;
-}
-.skills-content .right .kotlin::before{
     width: 30%;
 }
+.skills-content .right .cpp::before{
+    width: 40%;
+}
+.skills-content .right .c::before{
+    width: 40%;
+}
+/* .skills-content .right .kotlin::before{
+    width: 30%;
+} */
 /* Portfolio section styling  */
 .portfolio .title::after{
     content: "certificates";
